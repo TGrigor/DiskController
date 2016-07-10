@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\DiskController\Test\bin\Debug\Test.exe.config
+D:\Documents\Visual Studio 2015\Projects\DiskController\Test\bin\Debug\Test.exe
+D:\Documents\Visual Studio 2015\Projects\DiskController\Test\bin\Debug\Test.pdb
+D:\Documents\Visual Studio 2015\Projects\DiskController\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\DiskController\Test\obj\Debug\Test.exe
+D:\Documents\Visual Studio 2015\Projects\DiskController\Test\obj\Debug\Test.pdb

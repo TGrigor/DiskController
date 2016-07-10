@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\DiskController\DiskController\bin\Debug\DiskController.exe.config
+D:\Documents\Visual Studio 2015\Projects\DiskController\DiskController\obj\Debug\DiskController.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\DiskController\DiskController\bin\Debug\DiskController.exe
+D:\Documents\Visual Studio 2015\Projects\DiskController\DiskController\bin\Debug\DiskController.pdb
+D:\Documents\Visual Studio 2015\Projects\DiskController\DiskController\obj\Debug\DiskController.exe
+D:\Documents\Visual Studio 2015\Projects\DiskController\DiskController\obj\Debug\DiskController.pdb
