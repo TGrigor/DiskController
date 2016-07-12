@@ -50,8 +50,12 @@ namespace DiskController
                 
                 foreach (DirectoryInfo dirInfo in subDirs)
                 {
-                    AllFolderNames.Add(dirInfo.FullName);
-                    WalkDirectoryTree(dirInfo);
+                    if (dirInfo.FullName!= "D:\\System Volume Information")
+                    {
+                        AllFolderNames.Add(dirInfo.FullName);
+                        WalkDirectoryTree(dirInfo);
+                    }
+                    
                 }
             }
         }

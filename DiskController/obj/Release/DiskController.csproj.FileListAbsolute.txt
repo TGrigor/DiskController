@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\DiskController\DiskController\bin\Release\DiskController.exe.config
+D:\Documents\Visual Studio 2015\Projects\DiskController\DiskController\bin\Release\DiskController.exe
+D:\Documents\Visual Studio 2015\Projects\DiskController\DiskController\bin\Release\DiskController.pdb
+D:\Documents\Visual Studio 2015\Projects\DiskController\DiskController\obj\Release\DiskController.exe
+D:\Documents\Visual Studio 2015\Projects\DiskController\DiskController\obj\Release\DiskController.pdb
